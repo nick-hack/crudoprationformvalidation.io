@@ -1,0 +1,5 @@
+HOW TO USE DATABASE 
+
+xampp open mysqli database open new create database "register"
+
+and select import database add new.sql file
